@@ -18,7 +18,7 @@
         <h1>EFREI - Java EE - M1</h1>
         <c:if test="${not empty sessionScope.errmap}">
             <h3><span class="red"><c:out value="${errmap.error}"></c:out></span></h3>
-            </c:if>
+        </c:if>
 
         <h3>Enter your credentials</h3>
 
