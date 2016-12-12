@@ -1,0 +1,45 @@
+table
+{
+    border : 1px;
+}
+
+#login_table, tr, td, th
+{
+    border: 1px solid black;
+}
+
+#members_table
+{
+    width:80%;
+    margin-bottom: 20px;
+}
+#members_table, tr, td, th
+{
+    border: 1px solid black;
+}
+
+.td_checkbox
+{
+    width: 5%;
+}
+
+#button_login
+{
+    margin-top: 10px;
+}
+
+.red
+{
+    color:red;
+}
+.blue   {
+    color:blue;
+}
+
+.centered
+{
+    margin-left:auto;
+    width:20%;
+    margin-right:auto;
+    text-align: center;
+}
